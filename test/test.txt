@@ -1,2 +1,5 @@
 we are under test directory
 this is for annotated tag
+
+
+new step3 from v1.2 tag
