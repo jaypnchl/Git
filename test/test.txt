@@ -1,3 +1,4 @@
 we are under test directory
 this is for annotated tag
 another line
+step2
