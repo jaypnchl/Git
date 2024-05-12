@@ -2,3 +2,4 @@ we are under test directory
 this is for annotated tag
 another line
 step2
+new step3 from v1.2 tag
